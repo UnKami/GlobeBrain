@@ -1,0 +1,5 @@
+{
+  "name": "Globe Dashboard Demo",
+  "description": "A 3D interactive globe visualizing global ambassadors, centers, projects, pledges, and resolutions with filterable markers and detailed popups.",
+  "requestFramePermissions": []
+}
